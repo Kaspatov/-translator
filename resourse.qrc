@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>img/528-5284478_calculator-clipart-clip-art-calculator-clipart-black-and.png</file>
+        <file>img/vss3pFiWtmo.png</file>
+    </qresource>
+    <qresource prefix="/img2"/>
+</RCC>
